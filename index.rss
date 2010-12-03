@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
+<title>Samer Abukhait's Git Achievements</title>
+<description></description>
+<link></link>
+<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
+<item><title>Baptised</title><description>Set global user name using git config.</description></item>
+<item><title>Apprentice Architect (Level 1)</title><description>Created a new repository with git init.</description></item>
+<item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
+<item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Product Manager (Level 5)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Miller (Level 6)</title><description>Add only part of a file to the stage 124 times with git add -p.</description></item>
+<item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
+<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Presenter (Level 6)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Historian (Level 6)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Historian (Level 5)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Apprentice Product Manager (Level 3)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+</channel></rss>
